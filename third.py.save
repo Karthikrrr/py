@@ -1,0 +1,13 @@
+s="hello"
+  GNU nano 4.8                ok.txt                          
+hello this is Rohit sharma
+we love cricket
+we never give up
+we will win
+
+
+
+for i in range(0,10)
+n=len(s)
+
+print(s[0])

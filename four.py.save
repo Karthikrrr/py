@@ -1,0 +1,3 @@
+class magic:
+	def __init__(self):
+		sel
